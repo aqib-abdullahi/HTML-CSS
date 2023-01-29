@@ -1,0 +1,277 @@
+/****************** TAG SELECTORS *******************/
+
+a:hover {
+    font-size: 107%;
+    color: rgb(68, 122, 145);
+    transition-duration: 800ms;
+    text-shadow: 5%;
+}
+
+body {
+    margin: 0;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 350%;
+    padding-left: 5%;
+    width: 20%;
+    height: auto;
+    padding-top: 2%;
+}
+
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-size: 150%;
+    font-weight: bolder;
+    margin-top: 0;
+}
+
+input:hover {
+    font-size: 110%;
+    transition-duration: 800ms;
+    color: rgb(106, 108, 108);
+}
+
+input {
+    padding: 10px;
+    background-color: black;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/****************** CLASS SELECTORS *******************/
+
+.blocks {
+    width: 30%;
+    height: 40vh;
+    display: inline-block;
+    padding: 3% 9% 3%;
+}
+
+.blockparagraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+}
+
+.smallbp {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.brd {
+    background-color: aliceblue;
+    padding-left: 20%;
+}
+
+.brand-design {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 202%;
+    background-color: black;
+    opacity: .7;
+}
+
+.brands-img {
+    width: 100%;
+    height: 100vh;
+}
+
+.cimage {
+    height: 100%;
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+    height: 600px;
+}
+
+.contents {
+    display: inline-block;
+    width: 30%;
+    padding: 0 1% 0;
+    font-size: small;
+}
+
+.design {
+    display: inline-block;
+    width: 30%;
+    padding: 0 2% 0;
+    font-size: small;
+}
+
+.experience {
+    padding: 0 2% 1%;
+}
+
+.exphead {
+    font-family: Helvetica, sans-serif;
+    font-size: 300%;
+    line-height: 20px;
+}
+
+.expp {
+    font-family: Helvetica, sans-serif;
+    font-size: 150%;
+}
+
+.first-writeup {
+    color: rgb(255, 255, 255);
+    font-family: Helvetica, sans-serif;
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    width: 35%;
+}
+
+.fourth-view {
+    height: auto;
+    padding-bottom: 80px;
+}
+
+.fourth-head {
+    padding: 4% 9% 1%;
+}
+
+.fourth-header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.8rem;
+    line-height: 10px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.fh-paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.hbrd {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15% 0 0 12%;
+    font-size: 3rem;
+}
+
+.head {
+    background-color: black;
+    opacity: .7;
+    color: antiquewhite;
+    position: absolute;
+    width: 100%;
+    top: 9%;
+    padding: 0 0 14%;
+    margin-top: 4%;
+}
+
+.img-block {
+    height: 100%;
+    width: 100%;
+}
+
+.Mm {
+    display: inline-block;
+    margin: 0;
+    padding: 2%;
+    padding-left: 5%;
+}
+
+.mono {
+    font-family: Helvetica, sans-serif;
+    line-height: 150%;
+    font-size: 150%;
+    width: 40%;
+    padding-left: 5%;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+    display: inline;
+    height: 10%;
+    width: 100%;
+}
+
+.navlink {
+    padding: 4% 2% 0;
+    float: right;
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(37, 37, 37);
+    font-size: 100%;
+}
+
+.pbrd {
+    color: rgb(255, 255, 255);
+    padding: 0 0 0 12%;
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.powered {
+    margin-top: 0;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.pp {
+    font-family: Helvetica, sans-serif;
+    font-size: 150%;
+    line-height: 122%;
+}
+
+.second-view {
+    padding: 10%;
+}
+
+.sf-paragraph {
+    display: inline-block;
+    padding: 2% 0 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.small-footer {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-color: rgb(131, 203, 242);
+}
+
+.socials {
+    padding: 0 4% 0;
+    text-decoration: none;
+    color: aliceblue;
+    font: .8em sans-serif;
+}
+
+.strategy {
+    display: inline-block;
+    width: 30%;
+    padding: 0 1% 0;
+    font-size: small;
+}
+
+.third-view {
+    width: 100%;
+    height: 100vh;
+}
